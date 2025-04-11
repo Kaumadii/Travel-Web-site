@@ -20,7 +20,8 @@ This website provides curated information on popular travel destinations across 
 - **JavaScript (Vanilla)**
 
 ## 📸 Screenshots
-![Homepage](Home page.png)
+![Homepage](https://github.com/Kaumadii/Travel-Web-site/blob/b1b7d10b2db75fda9f7681a6341f8c9c740057da/Home%20page.png)
+![discover places](https://github.com/Kaumadii/Travel-Web-site/blob/b1b7d10b2db75fda9f7681a6341f8c9c740057da/Home%20page.png)
 
 ## 🔧 Installation
 
