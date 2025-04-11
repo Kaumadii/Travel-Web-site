@@ -21,7 +21,7 @@ This website provides curated information on popular travel destinations across 
 
 ## 📸 Screenshots
 ![Homepage](https://github.com/Kaumadii/Travel-Web-site/blob/b1b7d10b2db75fda9f7681a6341f8c9c740057da/Home%20page.png)
-![discover places](https://github.com/Kaumadii/Travel-Web-site/blob/b1b7d10b2db75fda9f7681a6341f8c9c740057da/Home%20page.png)
+![discover places](https://github.com/Kaumadii/Travel-Web-site/blob/58444828d0becbfed35f2eed109d74683f2e58da/discover%20places.png)
 
 ## 🔧 Installation
 
