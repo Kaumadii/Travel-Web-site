@@ -20,7 +20,7 @@ This website provides curated information on popular travel destinations across 
 - **JavaScript (Vanilla)**
 
 ## 📸 Screenshots
-![Home Page]
+![Homepage]()
 
 ## 🔧 Installation
 
